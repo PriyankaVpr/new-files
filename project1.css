@@ -1,0 +1,7 @@
+.image{
+background-image:url(https://ik.imagekit.io/fkr13xvcr/mern%20course/trip.jpeg?updatedAt=1720254519162) ;
+height: 500px;
+width: 300px;
+background-repeat:no-repeat;
+background-size: contain;
+}

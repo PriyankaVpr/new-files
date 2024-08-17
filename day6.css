@@ -1,0 +1,21 @@
+.h1{
+    background-color: aqua;
+}
+.paragraph{
+    background-color: pink;
+    
+}
+.bg-img{
+    background-image: url(./arjun\ das.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.5;
+}
+
+.model{
+    background-color: blue;
+    width:100px;
+    height:200px;
+    padding: 5px;
+}

@@ -1,0 +1,15 @@
+.h1{
+    color:blue;
+    font-weight: 400;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+.paragraph{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: 100;
+    text-decoration: underline;
+    text-align: center;
+}
